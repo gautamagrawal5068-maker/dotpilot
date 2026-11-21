@@ -1,0 +1,7 @@
+test-files/
+*.save
+*-backup.sh
+dotpilot-v1-backup.sh
+dotpilot-before-cleanup.sh
+.DS_Store
+EOF
